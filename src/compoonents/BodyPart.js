@@ -24,9 +24,6 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => {
       }}
 
     >
-      {/* <div>{bodyPart === item ? "y" : "n"}</div>
-      <div>{item}</div>
-      <div>{bodyPart}</div> */}
 
       <img
         src={Icon}
