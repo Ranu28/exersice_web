@@ -11,7 +11,7 @@ const ExerciseVideos = ({ exerciseVideos, name }) => {
       </Typography>
       <Stack
         justifyContent="flex-start"
-        flex-wrap="warp"
+        flexWrap="wrap"
         alignment="center"
         sx={{
           flexDirection: { lg: "row" },
